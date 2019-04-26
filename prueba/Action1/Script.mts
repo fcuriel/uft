@@ -14,4 +14,5 @@ WpfWindow("Micro Focus MyFlight Sample").WpfCalendar("Su").SetDate "10-May-2019"
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_2071682088_;_script infofile_;_ZIP::ssf23.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfTable("flightsDataGrid").SelectCell 3,0 @@ hightlight id_;_2018773352_;_script infofile_;_ZIP::ssf24.xml_;_
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("SELECT FLIGHT").Click @@ hightlight id_;_2018774504_;_script infofile_;_ZIP::ssf25.xml_;_
-WpfWindow("Micro Focus MyFlight Sample").Close @@ hightlight id_;_460472_;_script infofile_;_ZIP::ssf26.xml_;_
+WpfWindow("Micro Focus MyFlight Sample").Close   @@ hightlight id_;_460472_;_script infofile_;_ZIP::ssf26.xml_;_
+
